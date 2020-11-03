@@ -1,0 +1,7 @@
+
+vezet é kn é v  =  input ( 'Mi a vezetékneved?' )
+keresztn é v  =  input ( 'Mi a keresztneved?' )
+é v  =  input ( 'Mi a születési éved?' )
+csillagjegy  =  input ( 'Mi a csillagjegyed?' )
+nyomtatás ( 'A te neved' , vezet é kn é v , keresztn é v , '.' , sep = '' )
+nyomtatás ( 'A te születési éved' , é v , 'és a csillagjegyed' , csillagjegy , '.' , sep = '' ) 
