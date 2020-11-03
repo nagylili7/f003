@@ -1,0 +1,3 @@
+vezet é kn é v  =  input ( 'Mi a vezetékneved?' )
+keresztn é v  =  input ( 'Mi a keresztneved?' )
+nyomtatás ( 'A te neved' , vezet é kn é v , keresztn é v , '.' , sep = '' )
